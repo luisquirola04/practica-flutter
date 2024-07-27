@@ -1,0 +1,6 @@
+/* MyGallery.css */
+.image-gallery-image {
+    max-width: 500px; 
+    max-height: 500x; 
+    margin: auto; 
+}
